@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
 ## Linked List
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
