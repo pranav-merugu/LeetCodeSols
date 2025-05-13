@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
