@@ -1,21 +1,17 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        result = {}
-        for string in strs:
-            sorted_string = "".join(sorted(string))
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        seen = defaultdict(list)
+        for stri in strs:
+            key = [0] * 26
+            for char in stri:
+                key[ord(char) - ord('a')] += 1
 
-            if sorted_string not in result:
-                result[sorted_string] = []
-
-            result[sorted_string].append(string)
+            seen[tuple(key)].append(stri)
         
-        return list(result.values())
-                
-    
-          
-            
+        res = []
+        for value in seen.values():
+            res.append(value)
+
+        return res
+
         
