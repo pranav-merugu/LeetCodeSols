@@ -8,10 +8,5 @@ class Solution:
 
             seen[tuple(key)].append(stri)
         
-        res = []
-        for value in seen.values():
-            res.append(value)
-
-        return res
-
+        return list(seen.values())
         
