@@ -12,7 +12,5 @@ class Solution:
                     if rKey in seen or cKey in seen or bKey in seen:
                         return False
 
-                    seen.add(rKey)
-                    seen.add(cKey)
-                    seen.add(bKey)
+                    seen.update([rKey, cKey, bKey])
         return True
