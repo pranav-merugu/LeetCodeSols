@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0238-product-of-array-except-self) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
