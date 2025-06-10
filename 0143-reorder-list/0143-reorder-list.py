@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
-        #Find the middle of the list
+        #Find the middle of the list, one pointer goes 
         slow = head
         fast = head
         while fast and fast.next:
