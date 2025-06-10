@@ -10,7 +10,7 @@ class Solution:
         for i in range(n): # n = 2
             fast = fast.next # fast = 1 -> 2 -> 3
 
-        if (fast == None):
+        if (fast == None): #edge case, when n = sz
             head = head.next
             return head
 
