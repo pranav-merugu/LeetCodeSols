@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0206-reverse-linked-list) |
 ## Recursion
