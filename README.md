@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0206-reverse-linked-list) |
 ## Recursion
