@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
 ## Linked List
@@ -108,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
