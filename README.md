@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
