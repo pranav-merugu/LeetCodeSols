@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0155-min-stack) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
