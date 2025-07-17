@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
@@ -178,9 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
