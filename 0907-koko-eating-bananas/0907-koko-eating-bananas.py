@@ -1,7 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        piles.sort()
-        maxSize = piles[-1]
+        maxSize = max(piles)
         left = 1
         right = maxSize #30
         minRate = right
@@ -13,7 +12,7 @@ class Solution:
             if (hours > h):
                 left = k + 1
             else:
-                minRate = k
+                minRate = min(minRate, k)
                 right = k - 1
         
         return minRate
