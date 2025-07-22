@@ -4,6 +4,7 @@ class Solution:
         maxSize = piles[-1]
         left = 1
         right = maxSize #30
+        minRate = right
         while left <= right:
             k = (left + right) // 2 #15
             hours = 0
@@ -12,9 +13,10 @@ class Solution:
             if (hours > h):
                 left = k + 1
             else:
+                minRate = k
                 right = k - 1
         
-        return left
+        return minRate
             
 
 
