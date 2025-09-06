@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
+| [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
