@@ -214,4 +214,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
