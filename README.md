@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0468-validate-ip-address) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sorting
 |  |
 | ------- |
@@ -225,8 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
