@@ -21,5 +21,5 @@ class Solution:
                     if not c.isdigit() and c not in validHex:
                         return "Neither"
             return "IPv6"
-        else:
-            return "Neither"
+        
+        return "Neither"
