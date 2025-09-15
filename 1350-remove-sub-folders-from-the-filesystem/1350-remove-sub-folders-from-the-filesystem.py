@@ -2,15 +2,12 @@ class Solution:
     def removeSubfolders(self, folder: List[str]) -> List[str]:
         folder.sort()
         
-        result = []
+        result = [folder[0]]
 
-        for fol in folder:
-            if len(result) == 0: #first one is automatically a parent folder
-                result.append(fol)
-            else:
-                if len(fol) > len(result[-1]) and fol[0:len(result[-1])] == result[-1] and fol[len(result[-1])] == "/":
-                    continue
-                else:
-                    result.append(fol)
+        for i in range(1, len(folder)):
+            check = result[-1] + "/"
 
+            if not folder[i].startswith(check):
+                result.append(folder[i])
+        
         return result
