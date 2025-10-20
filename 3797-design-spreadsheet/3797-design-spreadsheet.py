@@ -9,7 +9,7 @@ class Spreadsheet:
         self.ss[cell[0]][int(cell[1:]) - 1] = value
 
     def resetCell(self, cell: str) -> None:
-        self.ss[cell[0]][int(cell[1:]) - 1] = 0
+        self.setCell(cell, 0)
         
     def getValue(self, formula: str) -> int:
         plusIndex = formula.index('+')
