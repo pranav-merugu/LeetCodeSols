@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0468-validate-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
+| [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0155-min-stack) |
+| [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |
