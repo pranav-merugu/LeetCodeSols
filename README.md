@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sorting
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
