@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0468-validate-ip-address) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+## Graph
+|  |
+| ------- |
+| [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 <!---LeetCode Topics End-->
