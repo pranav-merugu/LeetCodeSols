@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
+| [1610-xor-operation-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1610-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
+| [1610-xor-operation-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1610-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
