@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        conv = {0: 0, 1: 1, 2: 1, 3: 0} #2 is a 0 changed to a 1, 3 is a 1 changed to a 0
+        #2 is a 0 changed to a 1 and 3 is a 1 changed to a 0
         rows, cols = len(board), len(board[0])
         for row in range(rows):
             for col in range(cols):
@@ -22,10 +22,12 @@ class Solution:
                 elif board[row][col] == 0 and liveNeighbor == 3:
                     board[row][col] = 2
                 
-        print(board)
         for row in range(rows):
             for col in range(cols):
-                board[row][col] = conv[board[row][col]]
+                if board[row][col] == 2:
+                    board[row][col] = 1
+                elif board[row][col] == 3:
+                    board[row][col] = 0
         
 
 
