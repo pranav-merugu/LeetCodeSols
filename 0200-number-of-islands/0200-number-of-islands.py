@@ -2,34 +2,38 @@ from collections import deque
 
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        #assumption we don't need to preserve original grid values
+        if not grid:
+            return 0
 
-        def bfs(grid, cur):
-            w, l = len(grid), len(grid[0])
-            q = deque()
-            q.append(cur)
-            while q:
-                point = q.popleft()
-                if (point[0] - 1) >= 0 and grid[point[0] - 1][point[1]] == "1":
-                    grid[point[0] - 1][point[1]] = "0"
-                    q.append((point[0] - 1, point[1]))
-                if (point[0] + 1) < w and grid[point[0] + 1][point[1]] == "1":
-                    grid[point[0] + 1][point[1]] = "0"
-                    q.append((point[0] + 1, point[1]))
-                if (point[1] - 1) >= 0 and grid[point[0]][point[1] - 1] == "1":
-                    grid[point[0]][point[1] - 1] = "0"
-                    q.append((point[0], point[1] - 1))
-                if (point[1] + 1) < l and grid[point[0]][point[1] + 1] == "1":
-                    grid[point[0]][point[1] + 1] = "0"
-                    q.append((point[0], point[1] + 1))
-
-            return grid
-        
+        rows, cols = len(grid), len(grid[0])
         num_islands = 0
-        for x in range(len(grid)):
-            for y in range(len(grid[0])):
-                if grid[x][y] == "1":
-                    grid = bfs(grid, (x, y))
+
+        def bfs(r, c):
+            queue = deque([(r, c)])
+            grid[r][c] = "0"  # Mark as visited immediately
+            
+            # Direction vectors: up, down, left, right
+            directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+            
+            while queue:
+                row, col = queue.popleft()
+                
+                for dr, dc in directions:
+                    new_row, new_col = row + dr, col + dc
+                    
+                    # Check bounds and if it's land
+                    if (0 <= new_row < rows and 
+                        0 <= new_col < cols and 
+                        grid[new_row][new_col] == "1"):
+                        
+                        grid[new_row][new_col] = "0"  # Mark visited
+                        queue.append((new_row, new_col))
+        
+        #scan for islands
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == "1":
+                    bfs(r, c)
                     num_islands += 1
         
         return num_islands
