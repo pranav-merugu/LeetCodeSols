@@ -6,11 +6,10 @@ class Solution:
         for idx, word in enumerate(wordsDict):
             if word == word1:
                 index1 = idx
-                if index2 != -1:
-                    minDistance = min(abs(index1 - index2), minDistance)
             elif word == word2:
                 index2 = idx
-                if index1 != -1:
-                    minDistance = min(abs(index1 - index2), minDistance)
+            
+            if index1 != -1 and index2 != -1:
+                minDistance = min(abs(index1 - index2), minDistance)
         
         return minDistance
