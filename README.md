@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0088-merge-sorted-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
