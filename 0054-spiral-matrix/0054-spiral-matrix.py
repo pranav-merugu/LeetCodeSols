@@ -23,7 +23,7 @@ class Solution:
                 
         srow, erow = 0, rows
         scol, ecol = 0, cols
-        while len(res) < rows * cols:
+        while srow < erow and scol < ecol:
             outer_loop(srow, scol, erow, ecol)
             srow += 1
             scol += 1
