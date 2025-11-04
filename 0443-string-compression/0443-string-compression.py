@@ -1,25 +1,22 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
         check = 0
+        index = 0
         while check < len(chars):
-            length = check + 1
-            count = 1
-            while length < len(chars) and chars[length] == chars[check]:
+            count = 0
+            current = chars[check]
+            while check < len(chars) and chars[check] == current:
                 count += 1
-                chars.pop(length)
+                check += 1
             
-            if 1 < count < 10:
-                chars.insert(length, str(count))
-                check = length + 1
-            elif count >= 10:
-                res = count
-                check = length
-                while res > 0:
-                    chars.insert(length, str(res % 10))
-                    res = res // 10
-                    check += 1
-            else:
-                check = length
+            chars[index] = current
+            
+            if count > 1:
+                for c in str(count):
+                    index += 1
+                    chars[index] = c
+            
+            index += 1
         
-        return len(chars)
+        return index
             
