@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
+| [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Graph
 |  |
