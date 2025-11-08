@@ -3,7 +3,6 @@ from bisect import bisect_left, bisect_right
 class Solution:
     def findRadius(self, houses: List[int], heaters: List[int]) -> int:
         m = len(heaters)
-        houses.sort()
         heaters.sort()
         minDistances = []
         for house in houses:
