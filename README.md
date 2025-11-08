@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0475-heaters) |
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
+| [0475-heaters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
 ## Two Pointers
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0475-heaters) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
+| [0475-heaters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
