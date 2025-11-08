@@ -1,18 +1,18 @@
-from bisect import bisect_left, bisect_right
+from bisect import bisect_left
 
 class Solution:
     def findRadius(self, houses: List[int], heaters: List[int]) -> int:
         m = len(heaters)
         heaters.sort()
-        minDistances = []
+        maxDist = -1
         for house in houses:
-            minD = float('inf')
+            nearestHeat = 0
             checkIdx = bisect_left(heaters, house)
-            if 0 <= checkIdx < m:
-                if abs(house - heaters[checkIdx]) < minD:
-                    minD = abs(house - heaters[checkIdx])
-            if 0 <= checkIdx - 1 < m:
-                if abs(house - heaters[checkIdx - 1]) < minD:
-                    minD = abs(house - heaters[checkIdx - 1])
-            minDistances.append(minD)
-        return max(minDistances)
+            if checkIdx == 0:
+                nearestHeat = heaters[0] - house
+            elif checkIdx == m:
+                nearestHeat = house - heaters[-1]
+            else:
+                nearestHeat = min(house - heaters[checkIdx - 1], heaters[checkIdx] - house)
+            maxDist = max(nearestHeat, maxDist)
+        return maxDist
