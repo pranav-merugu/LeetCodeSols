@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
+| [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 | [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1397-search-suggestions-system) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0264-ugly-number-ii) |
+| [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 ## Simulation
 |  |
 | ------- |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
+## Greedy
+|  |
+| ------- |
+| [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 <!---LeetCode Topics End-->
