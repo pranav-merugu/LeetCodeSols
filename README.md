@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 | [1127-last-stone-weight](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1127-last-stone-weight) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1397-search-suggestions-system) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/pranav-merugu/LeetCodeSols/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Graph
 |  |
