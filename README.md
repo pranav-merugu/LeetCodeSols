@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Shortest Path
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/pranav-merugu/LeetCodeSols/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
