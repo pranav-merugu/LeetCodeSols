@@ -6,9 +6,9 @@ class Solution:
         if grid[0][0] == 1 or grid[n-1][n-1] == 1:
             return -1
 
-        if grid == [[0]]:
+        if n == 1:
             return 1
-            
+
         queue = deque()
         queue.append((0, 0, 1))
         directions = [(-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
