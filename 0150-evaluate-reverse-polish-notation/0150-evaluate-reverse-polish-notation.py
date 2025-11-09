@@ -1,24 +1,26 @@
+from collections import deque
+
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        stack = [] #3, 3
-        operands = {"*", "/", "+", "-"}
+        operands = deque()
         for token in tokens:
-            if token in operands:
-                result = 0
-                num2 = int(stack.pop()) #1
-                num1 = int(stack.pop()) #2
-                if token == "*":
-                    result += (num1 * num2)
-                elif token == "+":
-                    result += (num1 + num2) #3
-                elif token == "/":
-                    result += (num1 / num2)
-                else:
-                    result += (num1 - num2)
-                stack.append(result) #3
+            if token != "+" and token != "-" and token != "*" and token != "/":
+                operands.append(int(token))
             else:
-                stack.append(token)
-        return int(stack.pop())
-            
-
-
+                operand1 = operands.pop()
+                operand2 = operands.pop()
+                res = 0
+                if token == "+":
+                    res = operand2 + operand1
+                elif token == "-":
+                    res = operand2 - operand1
+                elif token == "*":
+                    res = operand2 * operand1
+                else:
+                    res = int(operand2 / operand1)
+                operands.append(res)
+        
+        if len(operands) == 2:
+            return operands.pop() + operands.pop()
+        else:
+            return operands.pop()
