@@ -2,6 +2,9 @@ from collections import defaultdict, deque
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        '''
+        Solution 1: Kahn's Algorithm
+
         prereqs = defaultdict(list)
         nodes = set()
         maxCourse = -1
@@ -14,8 +17,6 @@ class Solution:
         in_degree = [0] * (maxCourse + 1)
         for postreq, prereq in prerequisites:
             in_degree[postreq] += 1
-        
-        print(in_degree)
         
         queue = deque([])
         for node, degree in enumerate(in_degree):
@@ -35,4 +36,31 @@ class Solution:
             return False
         else:
             return True
+        '''
+
+        courses = defaultdict(list)
+        for course, prereq in prerequisites:
+            courses[course].append(prereq)
+        
+        visited = set()
+        def dfs(course):
+            if courses[course] == []:
+                return True
+            
+            if course in visited:
+                return False
+            
+            visited.add(course)
+            for prereq in courses[course]:
+                if not dfs(prereq):
+                    return False
+            
+            courses[course] = []
+            return True
+        
+        for course in range(numCourses):
+            if not dfs(course):
+                return False
+        
+        return True
         
