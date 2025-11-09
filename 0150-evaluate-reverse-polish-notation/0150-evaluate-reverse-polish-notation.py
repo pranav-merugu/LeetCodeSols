@@ -4,23 +4,17 @@ class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         operands = deque()
         for token in tokens:
-            if token != "+" and token != "-" and token != "*" and token != "/":
-                operands.append(int(token))
-            else:
-                operand1 = operands.pop()
+            if token == "+":
+                operands.append(operands.pop() + operands.pop())
+            elif token == "-":
                 operand2 = operands.pop()
-                res = 0
-                if token == "+":
-                    res = operand2 + operand1
-                elif token == "-":
-                    res = operand2 - operand1
-                elif token == "*":
-                    res = operand2 * operand1
-                else:
-                    res = int(operand2 / operand1)
-                operands.append(res)
+                operands.append(operands.pop() - operand2)
+            elif token == "*":
+                operands.append(operands.pop() * operands.pop())
+            elif token == "/":
+                operand2 = operands.pop()
+                operands.append(int(operands.pop() / operand2))
+            else:
+                operands.append(int(token))
         
-        if len(operands) == 2:
-            return operands.pop() + operands.pop()
-        else:
-            return operands.pop()
+        return operands[0]
