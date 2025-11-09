@@ -5,37 +5,28 @@ class Solution:
         '''
         Solution 1: Kahn's Algorithm
 
-        prereqs = defaultdict(list)
-        nodes = set()
-        maxCourse = -1
-        for postreq, prereq in prerequisites:
-            prereqs[prereq].append(postreq)
-            nodes.add(prereq)
-            nodes.add(postreq)
-            maxCourse = max(maxCourse, max(prereq, postreq))
-        
-        in_degree = [0] * (maxCourse + 1)
-        for postreq, prereq in prerequisites:
-            in_degree[postreq] += 1
+        courses = defaultdict(list)
+        in_degree = [0] * numCourses
+        for course, prereq in prerequisites:
+            courses[prereq].append(course)
+            in_degree[course] += 1
         
         queue = deque([])
-        for node, degree in enumerate(in_degree):
-            if degree == 0 and node in nodes:
-                queue.append(node)
+        for i in range(numCourses):
+            if degree == 0:
+                queue.append(i)
         
-        res = []
+        completed = 0
         while queue:
             cur = queue.popleft()
-            res.append(cur)
+            completed += 1
+
             for node in prereqs[cur]:
                 in_degree[node] -= 1
                 if in_degree[node] == 0:
                     queue.append(node)
         
-        if len(res) != len(nodes):
-            return False
-        else:
-            return True
+        return completed == numCourses
         '''
 
         courses = defaultdict(list)
