@@ -1,4 +1,5 @@
 from collections import deque
+from bisect import bisect_left
 
 class TrieNode:
     def __init__(self):
@@ -35,6 +36,8 @@ class Trie:
 
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        '''
+        Solution 1 with Trie
         T = Trie()
 
         for product in products:
@@ -52,4 +55,19 @@ class Solution:
             res.append(ans[:3])
         
         return res
+        '''
+        products.sort()
+        cur = ''
+        res = []
+        for c in searchWord:
+            cur += c
+            checkIdx = bisect_left(products, cur)
+            ans = []
+            for i in range(checkIdx, checkIdx + 3):
+                if 0 <= i < len(products) and products[i].startswith(cur):
+                    ans.append(products[i])
+            res.append(ans)
+        
+        return res
+
 
