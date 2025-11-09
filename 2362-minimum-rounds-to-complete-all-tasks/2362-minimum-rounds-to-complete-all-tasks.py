@@ -10,11 +10,10 @@ class Solution:
         for count in freq.values():
             if count == 1:
                 return -1
-            while count > 0:
-                if count == 2 or count == 4:
-                    count -= 2
-                else:
-                    count -= 3
-                res += 1
+            
+            if count % 3 == 0:
+                res += count // 3
+            else:
+                res += count // 3 + 1
         
         return res
