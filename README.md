@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1397-search-suggestions-system](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1397-search-suggestions-system) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3797-design-spreadsheet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0647-palindromic-substrings) |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Simulation
 |  |
 | ------- |
