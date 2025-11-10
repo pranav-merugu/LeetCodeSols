@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0264-ugly-number-ii) |
+| [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0647-palindromic-substrings) |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
