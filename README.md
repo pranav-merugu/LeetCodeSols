@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0362-design-hit-counter) |
 | [0475-heaters](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0792-binary-search) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0647-palindromic-substrings) |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
