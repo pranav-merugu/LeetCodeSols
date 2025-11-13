@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0243-shortest-word-distance) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -322,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1397-search-suggestions-system) |
 ## Queue
