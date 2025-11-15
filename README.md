@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0056-merge-intervals) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
