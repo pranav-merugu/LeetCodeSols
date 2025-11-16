@@ -2,21 +2,25 @@ from collections import defaultdict
 
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        dp = defaultdict(set)
 
-        for c in candidates:
-            if c <= target:
-                dp[c].add((c,))
-
-        for i in range(1, target + 1):
-            if len(dp[i]) > 0:
-                for c in candidates:
-                    if c + i <= target:
-                        for sol in dp[i]:
-                            dp[c+i].add(sol + (c,))
+        def dfs(i, s):
+            if s == 0:
+                res.append(cur[:])
+                return 
+            
+            if candidates[i] > s:
+                return
+            
+            for idx in range(i, len(candidates)):
+                cur.append(candidates[idx])
+                dfs(idx, s - candidates[idx])
+                cur.pop()
         
-        res = set()
-        for sol in dp[target]:
-            res.add(tuple(sorted(sol)))
-        return list(res)
+        candidates.sort()
+
+        cur = []
+        res = []
+        dfs(0, target)
+
+        return res
         
