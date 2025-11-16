@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0088-merge-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0091-decode-ways) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0055-jump-game) |
 | [1081-video-stitching](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1081-video-stitching) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/pranav-merugu/LeetCodeSols/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Topological Sort
