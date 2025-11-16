@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0244-shortest-word-distance-ii) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0344-reverse-string](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0412-fizz-buzz) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0243-shortest-word-distance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0244-shortest-word-distance-ii) |
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Shortest Path
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 ## Backtracking
 |  |
 | ------- |
