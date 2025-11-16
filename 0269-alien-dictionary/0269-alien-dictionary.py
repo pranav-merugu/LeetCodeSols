@@ -1,8 +1,9 @@
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
         adj = defaultdict(set)
-        in_degree = defaultdict(int)
         letters = set("".join(words))
+        in_degree = {c: 0 for c in letters} 
+
         for i in range(len(words) - 1):
             word1 = words[i]
             word2 = words[i + 1]
@@ -28,8 +29,6 @@ class Solution:
         for char in letters:
             if in_degree[char] == 0:
                 heapq.heappush(min_heap, char)
-
-        print(min_heap)
 
         res = ""
         while min_heap:
