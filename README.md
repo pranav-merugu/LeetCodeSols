@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0907-koko-eating-bananas) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
+| [0854-making-a-large-island](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0854-making-a-large-island) |
 ## Stack
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0543-diameter-of-binary-tree) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0854-making-a-large-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
 | [0690-employee-importance](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/pranav-merugu/LeetCodeSols/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
