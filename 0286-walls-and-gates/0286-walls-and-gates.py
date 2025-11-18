@@ -14,7 +14,7 @@ class Solution:
         for row in range(rows):
             for col in range(cols):
                 if rooms[row][col] == 0:
-                    gates.append((row, col, 0))
+                    gates.append((row, col))
 
         q = deque()
         q.extend(gates)
@@ -22,11 +22,12 @@ class Solution:
 
 
         while q:
-            row, col, dist = q.popleft()
+            row, col = q.popleft()
             for dr, dc in directions:
                 if 0 <= row + dr < rows and 0 <= col + dc < cols and rooms[row + dr][col + dc] == inf:
-                    rooms[row + dr][col + dc] = dist + 1
-                    q.append((row + dr, col + dc, dist + 1))
+                    newDist = 1 + rooms[row][col]
+                    rooms[row + dr][col + dc] = newDist
+                    q.append((row + dr, col + dc))
 
 
         
