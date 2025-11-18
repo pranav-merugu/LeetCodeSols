@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0300-longest-increasing-subsequence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
 | [0661-image-smoother](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0661-image-smoother) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0269-alien-dictionary) |
+| [0286-walls-and-gates](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pranav-merugu/LeetCodeSols/tree/master/0417-pacific-atlantic-water-flow) |
