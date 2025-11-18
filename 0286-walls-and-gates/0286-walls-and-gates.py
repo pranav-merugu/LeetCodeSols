@@ -5,9 +5,10 @@ class Solution:
         """
         Do not return anything, modify rooms in-place instead.
         """
+        if not rooms:
+            return []
 
         inf = 2**31 - 1
-        #DP/BFS maybe, starting from gates and updating distance outwards
         rows, cols = len(rooms), len(rooms[0])
         gates = []
         for row in range(rows):
@@ -23,7 +24,7 @@ class Solution:
         while q:
             row, col, dist = q.popleft()
             for dr, dc in directions:
-                if 0 <= row + dr < rows and 0 <= col + dc < cols and rooms[row + dr][col + dc] > 0 and dist + 1 < rooms[row + dr][col + dc]:
+                if 0 <= row + dr < rows and 0 <= col + dc < cols and rooms[row + dr][col + dc] == inf:
                     rooms[row + dr][col + dc] = dist + 1
                     q.append((row + dr, col + dc, dist + 1))
 
